@@ -1,0 +1,12 @@
+Log created: 2022-04-09T02:13:19.656752000Z
+Process ID:  4027 (0xfbb)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: vagrant-lab_default_1649258702941_75178
+Arg[3]: --startvm
+Arg[4]: f246235d-5193-48e5-b088-43cf5394646c
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
